@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrieleGrimme
 - 👀 I’m interested in music, LARP and life in itself.
-- 🌱 I’m currently a trainee in a WebDev Bootcamp at neuefische GmbH in Germany
+- 🌱 I was a trainee in a WebDev Bootcamp at neuefische GmbH in Germany
 - 💞️ I’m looking to code exceptional cool things you might one day see in the www!
 - 📫 How to reach me https://www.linkedin.com/in/gabriele-grimme-bb7184a4/
 
